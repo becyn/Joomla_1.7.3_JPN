@@ -30,10 +30,10 @@ class JConfig {
 
 	/* Database Settings */
 	public $dbtype = 'mysql';					// Normally mysql
-	public $host = 'localhost';					// This is normally set to localhost
-	public $user = '';							// MySQL username
-	public $password = '';						// MySQL password
-	public $db = '';							// MySQL database name
+	public $host = 'FLX_DB_HOST';			// This is normally set to localhost
+	public $user = 'FLX_DB_USER';			// MySQL username
+	public $password = 'FLX_DB_PASS';	// MySQL password
+	public $db = 'FLX_DB_NAME';			// MySQL database name
 	public $dbprefix = 'jos_';					// Do not change unless you need to!
 
 	/* Server Settings */

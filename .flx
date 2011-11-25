@@ -1,0 +1,15 @@
+#########################################
+#
+#  fluxflex configuration for Joomla!
+#
+#########################################
+
+## Replace
+[replace]
+public_html/installation/configuration.php-dist FLX_DB_NAME PROJECT_NAME
+public_html/installation/configuration.php-dist FLX_DB_USER DB_USER
+public_html/installation/configuration.php-dist FLX_DB_PASS DB_PASSWORD
+public_html/installation/configuration.php-dist FLX_DB_HOST DB_HOST
+
+[setup]
+mv public_html/installation/configuration.php-dist public_html/installation/models/configuration.php
