@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<metafile version="1.7" client="site" method="upgrade">
+	<name>日本語 (Japan)</name>
+	<description>Joomla! サイト用日本語ファイルです。</description>
+	<version>1.7.3</version>
+	<creationDate>2011-11-14</creationDate>
+	<author>Japanese translation team : Joomla.jp</author>
+	<authorEmail>project@joomla.jp</authorEmail>
+	<authorUrl>www.joomla.jp</authorUrl>
+	<copyright>Copyright (C) 2005 - 2011 Joomla!JP and Open Source Matters. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<metadata>
+		<name>日本語 (Japan)</name>
+		<tag>ja-JP</tag>
+		<rtl>0</rtl>
+		<locale>ja-JP.utf8, ja-JP.UTF-8, ja_JP, jpn, ja, Japanese_Japan.UTF8, japanese, jp, JP, JA</locale>
+		<firstDay>1</firstDay>
+	</metadata>
+	<params />
+</metafile>
